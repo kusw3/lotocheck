@@ -1,0 +1,7 @@
+Loteria de Navidad checker.
+This script checks a list of tickets numbers for loteria de Navidad and gets prizes if ticket has won.
+Uses external service at http://loteriadenavidad.laverdad.es
+
+List of numbers is expected to be in the following format:
+
+number:amount_bet:any length comment
